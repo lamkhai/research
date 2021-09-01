@@ -4,8 +4,8 @@
 
 ### 1.1. Database:
 
-Go to the wwwroot/db folder, then use research.bak to restore the database, or run script.sql directly
-Right-click script.sql, choose Properties then set Build Action into None
+- Go to the wwwroot/db folder, then use research.bak to restore the database, or run script.sql directly
+- Right-click script.sql, choose Properties then set Build Action into None
 
 ### 1.2. Connection string:
 
@@ -21,8 +21,8 @@ Check 2 packages and restore them if missing:
 
 ### 2.1. Localhost:
 
-URL: /Home/User
-Full URL: https://localhost:44388/Home/User
+- URL: /Home/User
+- Full URL: https://localhost:44388/Home/User
 
 ### 2.2. Postman:
 
