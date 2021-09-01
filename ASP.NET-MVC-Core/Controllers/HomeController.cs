@@ -23,6 +23,11 @@ namespace ASP.NET_MVC_Core.Controllers
             return View();
         }
 
+        public IActionResult User()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
